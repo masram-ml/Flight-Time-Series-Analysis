@@ -1,0 +1,2 @@
+# Flight-Time-Series-Analysis
+ This Python code analyzes a time series dataset of flight passengers, aiming to understand the trends, seasonality, and patterns in the data. The analysis includes visualizations, decomposition techniques, stationarity tests, detrending, autocorrelation analysis, and building a SARIMAX model for predicting future passenger counts.  The dataset contains information about the number of passengers across different months and years. The code systematically explores various aspects of the time series data to derive insights and make predictions.
