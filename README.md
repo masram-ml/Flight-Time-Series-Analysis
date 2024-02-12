@@ -15,9 +15,6 @@
 - [Detrending](#detrending)
 - [Autocorrelation and Partial Autocorrelation](#autocorrelation-and-partial-autocorrelation)
 - [SARIMAX Model](#sarimax-model)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Data Preparation and Visualization
 
